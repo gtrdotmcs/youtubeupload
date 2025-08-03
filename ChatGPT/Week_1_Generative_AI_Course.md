@@ -72,13 +72,14 @@ Paste and run this test code:
 
 `python print("Hello, Generative AI!")`
 
+---
 
-==============================
-|[x]| Task                                                      | Done? ✅ |
-|[]| --------------------------------------------------------- | ------- |
-|[]| Read the IBM article on AI/ML/Deep Learning               |         |
-|[]| Watched the YouTube video on Generative AI basics         |         |
-|[]| Tried using ChatGPT (Free)                                |         |
-|[]| Tried generating images using DALL·E Mini on Hugging Face |         |
-|[]| Set up and tested a Google Colab notebook                 |         |
-|[]| Wrote or spoke answers to the 3 review questions          |         |
+### Track
+
+- [ ] Week1 task
+    - [ ] Read the IBM article on AI/ML/Deep Learning
+    - [ ] Watched the YouTube video on Generative AI basics
+	- [ ] Tried using ChatGPT (Free) 
+	- [ ] Tried generating images using DALL·E Mini on Hugging Face
+	- [ ] Set up and tested a Google Colab notebook 
+	- [ ] Wrote or spoke answers to the 3 review questions
