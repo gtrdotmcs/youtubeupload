@@ -239,3 +239,5 @@ text
 12. [ ] Week 12 - Mini Project 1  
 13. [ ] Week 13 - LoRA Fine-tuning  
 14. [ ] Week 14 - Final Project
+
+[Link](https://chatgpt.com/s/t_688f6f656e608191bdfaed7bf057ca4e)
