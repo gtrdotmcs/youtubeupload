@@ -71,7 +71,7 @@ Your coding environment for this course will be Google Colab.
 Paste and run this test code:
 
 ```python
-print("Hello, Generative AI!")
+print("Hello, Generative AI!")```
 
 
 ==============================
