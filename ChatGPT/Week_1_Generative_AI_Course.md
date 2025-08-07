@@ -28,9 +28,10 @@ Read this article to understand the differences:
 
 ### 🎥 1.2 Watch Video – Introduction to Generative AI
 
-Video (10 mins):  
+Video (10 mins): any of link   
 🔗 [Simplilearn: Generative AI Explained](https://www.youtube.com/watch?v=7LkyouUAEAA)
-
+🔗 [IBM: AI, Machine Learning, Deep Learning and Generative AI Explained](https://www.youtube.com/watch?v=qYNweeDHiyU)
+🔗 [Edureka: What Is Generative AI | How Generative AI Works | Generative AI Explained |](https://www.youtube.com/watch?v=mBnqrlLnCCY)
 📒 Write down:
 - At least 2 tools/models mentioned
 - One surprising thing you learned
